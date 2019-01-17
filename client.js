@@ -1,8 +1,7 @@
-// var Twitter = require('twitter')
-// var config = require('./config')
-// var tweets = []
+
 // import Twitter from 'twitter';
-// import config from './config'
+// import config from './config';
+// var tweets = []
 
 console.log('the client and server are connected')
 
